@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ux-portfolio-chanin",
+  "compatibility_date": "2026-05-21",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "ux-portfolio-site"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
